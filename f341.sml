@@ -7,3 +7,5 @@ fun get_nth (1, L) = "value at requested location:  " ^ str(hd(L))
 
 val c = get_nth (3, L);
 
+val t = ~3;
+
